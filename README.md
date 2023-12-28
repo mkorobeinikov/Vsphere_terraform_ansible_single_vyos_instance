@@ -2,7 +2,7 @@
 How to create a single instance and install your configuration using Terraform+Ansible+Vsphere 
 Step by step:
 # Vsphere
-1.1 Collect all data in to file "terraform.tfvars"
+1.1 Collect all data in to file "terraform.tfvars" and create resources fo example "terraform"
 # Terraform
 2.1 Create a UNIX or Windows instance
 
